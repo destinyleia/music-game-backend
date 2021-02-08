@@ -17,9 +17,8 @@ const Image = mongoose.model('Image', {
 if (process.env.RESET_DB) {
   const fixedDatabase = async () => {
     await Image.deleteMany()
-    imagesGameData.forEach((item) => {
-      const newImage = new Image(item)
-      newImage.save()
+    imagesGameData.forEach((imagesGameData) => {
+    new Image(imagesGameData).save()
     })
   }
   fixedDatabase()
