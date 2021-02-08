@@ -10,6 +10,7 @@ mongoose.connect(mongoUrl, { useNewUrlParser: true, useUnifiedTopology: true })
 mongoose.Promise = Promise
 
 const Image = mongoose.model('Image', {
+  id: String,
   image: String
 })
 
