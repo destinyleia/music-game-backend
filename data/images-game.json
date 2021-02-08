@@ -1,0 +1,71 @@
+[
+    {
+        "image": "assets/angry.png"
+    },
+    {
+        "image": "assets/animals.png"
+    },
+    {
+        "image": "assets/boat.png"
+    },
+    {
+        "image": "assets/camera.png"
+    },
+    {
+        "image": "assets/car.png"
+    },
+    {
+        "image": "assets/cry.png"
+    },
+    {
+        "image": "assets/dreamer.png"
+    },
+    {
+        "image": "assets/drink.png"
+    },
+    {
+        "image": "assets/eye.png"
+    },
+    {
+        "image": "assets/fire.png"
+    },
+    {
+        "image": "assets/fotboll.png"
+    },
+    {
+        "image": "assets/game.png"
+    },
+    {
+        "image": "assets/happy.png"
+    },
+    {
+        "image": "assets/house.png"
+    },
+    {
+        "image": "assets/love.png"
+    },
+    {
+        "image": "assets/money.png"
+    },
+    {
+        "image": "assets/music.png"
+    },
+    {
+        "image": "assets/running.png"
+    },
+    {
+        "image": "assets/sikc.png"
+    },
+    {
+        "image": "assets/thinking.png"
+    },
+    {
+        "image": "assets/town.png"
+    },
+    {
+        "image": "assets/train.png"
+    },
+    {
+        "image": "assets/winner.png"
+    }
+]
