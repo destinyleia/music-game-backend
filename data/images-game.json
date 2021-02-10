@@ -1,94 +1,94 @@
 [
     {
         "id": "angry",
-        "image": "assets/angry.png"
+        "image": "./assets/angry.png"
     },
     {
         "id": "animals",
-        "image": "assets/animals.png"
+        "image": "./assets/animals.png"
     },
     {
         "id": "boat",
-        "image": "assets/boat.png"
+        "image": "./assets/boat.png"
     },
     {
         "id": "camera",
-        "image": "assets/camera.png"
+        "image": "./assets/camera.png"
     },
     {
         "id": "car",
-        "image": "assets/car.png"
+        "image": "./assets/car.png"
     },
     {
         "id": "cry",
-        "image": "assets/cry.png"
+        "image": "./assets/cry.png"
     },
     {
         "id": "dreamer",
-        "image": "assets/dreamer.png"
+        "image": "./assets/dreamer.png"
     },
     {
         "id": "drink",
-        "image": "assets/drink.png"
+        "image": "./assets/drink.png"
     },
     {
         "id": "eye",
-        "image": "assets/eye.png"
+        "image": "./assets/eye.png"
     },
     {
         "id": "fire",
-        "image": "assets/fire.png"
+        "image": "./assets/fire.png"
     },
     {
         "id": "fotboll",
-        "image": "assets/fotboll.png"
+        "image": "./assets/fotboll.png"
     },
     {
         "id": "game",
-        "image": "assets/game.png"
+        "image": "./assets/game.png"
     },
     {
         "id": "happy",
-        "image": "assets/happy.png"
+        "image": "./assets/happy.png"
     },
     {
         "id": "house",
-        "image": "assets/house.png"
+        "image": "./assets/house.png"
     },
     {
         "id": "love",
-        "image": "assets/love.png"
+        "image": "./assets/love.png"
     },
     {
         "id": "money",
-        "image": "assets/money.png"
+        "image": "./assets/money.png"
     },
     {
         "id": "music",
-        "image": "assets/music.png"
+        "image": "./assets/music.png"
     },
     {
         "id": "running",
-        "image": "assets/running.png"
+        "image": "./assets/running.png"
     },
     {
         "id": "sick",
-        "image": "assets/sikc.png"
+        "image": "./assets/sikc.png"
     },
     {
         "id": "thinking",
-        "image": "assets/thinking.png"
+        "image": "./assets/thinking.png"
     },
     {
         "id": "town",
-        "image": "assets/town.png"
+        "image": "./assets/town.png"
     },
     {
         "id": "train",
-        "image": "assets/train.png"
+        "image": "./assets/train.png"
     },
     {
         "id": "winner",
-        "image": "assets/winner.png"
+        "image": "./assets/winner.png"
     }
 ]

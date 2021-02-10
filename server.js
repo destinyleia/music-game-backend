@@ -40,7 +40,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/images', async (req, res) => {
-  const getImages = await Image.find(req.query)
+  const getImages = await Image.find(res.query)
 
   if (getImages) {
     res.json(getImages)
