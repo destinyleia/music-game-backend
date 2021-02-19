@@ -1,94 +1,94 @@
 [
     {
         "id": "angry",
-        "image": "./assets/angry.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752196/angry_ai3ojy.png"
     },
     {
         "id": "animals",
-        "image": "./assets/animals.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752196/animlas_ldl8ju.png"
     },
     {
         "id": "boat",
-        "image": "./assets/boat.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752196/boat_hk4evb.png"
     },
     {
         "id": "camera",
-        "image": "./assets/camera.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752196/camera_aojehe.png"
     },
     {
         "id": "car",
-        "image": "./assets/car.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752196/car_ochtci.png"
     },
     {
         "id": "cry",
-        "image": "./assets/cry.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752196/cry_vh4ovq.png"
     },
     {
         "id": "dreamer",
-        "image": "./assets/dreamer.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752196/dreamer_jddap2.png"
     },
     {
         "id": "drink",
-        "image": "./assets/drink.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752197/drink_e5vrzz.png"
     },
     {
         "id": "eye",
-        "image": "./assets/eye.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752197/eye_yq9obm.png"
     },
     {
         "id": "fire",
-        "image": "./assets/fire.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752197/fire_bhzcli.png"
     },
     {
-        "id": "fotboll",
-        "image": "./assets/fotboll.png"
+        "id": "soccer",
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752197/fotboll_mnpb45.png"
     },
     {
         "id": "game",
-        "image": "./assets/game.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752197/game_nfnwqo.png"
     },
     {
         "id": "happy",
-        "image": "./assets/happy.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752197/happy_jy0bir.png"
     },
     {
         "id": "house",
-        "image": "./assets/house.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752197/house_qdrvum.png"
     },
     {
         "id": "love",
-        "image": "./assets/love.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752197/love_pcxog1.png"
     },
     {
         "id": "money",
-        "image": "./assets/money.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752197/money_oujtox.png"
     },
     {
         "id": "music",
-        "image": "./assets/music.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752197/music_nhopze.png"
     },
     {
         "id": "running",
-        "image": "./assets/running.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752197/running_mppkqv.png"
     },
     {
         "id": "sick",
-        "image": "./assets/sikc.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752198/sikc_r6p660.png"
     },
     {
         "id": "thinking",
-        "image": "./assets/thinking.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752197/thinking_axvkqp.png"
     },
     {
         "id": "town",
-        "image": "./assets/town.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752197/town_q8epg8.png"
     },
     {
         "id": "train",
-        "image": "./assets/train.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752197/train_i5cgkv.png"
     },
     {
         "id": "winner",
-        "image": "./assets/winner.png"
+        "image": "https://res.cloudinary.com/dkfhiaguu/image/upload/v1613752197/winner_krcck4.png"
     }
 ]
